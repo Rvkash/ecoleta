@@ -6,7 +6,7 @@
   Ecoleta Next Level Week - Rocketseat
 </h3>
 
-## Why
+## :book: About
 
 ecoleta is a website created to raise awareness about the use of garbage collection, created at the next level event by rockeseat
 
